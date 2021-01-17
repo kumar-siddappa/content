@@ -50,8 +50,8 @@ configuration:
   required: true
   type: 0
 description: An Identity and Access Management integration template.
-display: Hello World IAM
-name: Hello World IAM
+display: Hello IAM World
+name: Hello IAM World
 script:
   commands:
   - arguments:
