@@ -1,6 +1,6 @@
 category: Identity and Access Management
 commonfields:
-  id: Hello World IAM
+  id: Hello IAM World
   version: -1
 configuration:
 - display: Base URL
